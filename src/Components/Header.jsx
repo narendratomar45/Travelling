@@ -16,7 +16,7 @@ const Header = () => {
       </div>
       <div className="flex items-center gap-2">
         <IoCall className="text-yellow-400" />
-        <span>+91 987654321</span>
+        <span>+91 9876543210</span>
       </div>
     </div>
   );
