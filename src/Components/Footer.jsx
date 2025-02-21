@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="bg-blue-900 text-white py-8">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
-        {/* About Us */}
+
         <div>
           <h2 className="text-xl font-bold mb-3">About Us</h2>
           <p className="text-sm">
@@ -14,7 +14,7 @@ const Footer = () => {
           </p>
         </div>
 
-        {/* Quick Links */}
+
         <div>
           <h2 className="text-xl font-bold mb-3">Quick Links</h2>
           <ul className="text-sm space-y-2">
@@ -27,7 +27,6 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/* Contact Info & Social Media */}
         <div>
           <h2 className="text-xl font-bold mb-3">Contact Us</h2>
           <p className="text-sm">Email: chaitanyacreation@gmail.com</p>
@@ -41,7 +40,6 @@ const Footer = () => {
         </div>
       </div>
 
-      {/* Copyright Section */}
       <div className="text-center text-sm text-gray-300 mt-8">
         © 2025 TravelX. All rights reserved.
       </div>
