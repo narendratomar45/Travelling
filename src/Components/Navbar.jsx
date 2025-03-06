@@ -11,6 +11,7 @@ const Navbar = () => {
           <li className="hover:text-yellow-400 cursor-pointer">Packages</li>
           <li className="hover:text-yellow-400 cursor-pointer">About Us</li>
           <li className="hover:text-yellow-400 cursor-pointer">Contact</li>
+          <li className="hover:text-yellow-400 cursor-pointer">Enquery</li>
         </ul>
         <button className="bg-yellow-400 text-blue-900 px-4 py-2 rounded-md font-semibold">
           Book Now
